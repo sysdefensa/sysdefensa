@@ -1,0 +1,23 @@
+{
+  "name": "Sagredo Srdanovic & Cía",
+  "short_name": "Sagredo Srdanovic",
+  "description": "Abogado en Chile para litigios civiles, derecho de familia, juicios ejecutivos, defensa patrimonial, derecho administrativo, laboral y penal.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F7FAFC",
+  "theme_color": "#1A365D",
+  "lang": "es-CL",
+  "icons": [
+    {
+      "src": "/assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
